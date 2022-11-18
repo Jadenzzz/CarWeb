@@ -20,7 +20,7 @@
 			</div>
 			<form id="regform" method="post" action="payment.php" novalidate="novalidate">
 				<fieldset id="person">
-					<legend>Your details:</legend>
+					<legend>Your Details:</legend>
 					<p><label for="firstname">Enter your first name</label>
 						<input type="text" name="firstname" id="firstname" size="20" />
 					</p>
